@@ -331,7 +331,7 @@ int main()
 
 	// Setting  Background Music
 	FMOD::Sound* music = NULL;
-	lowLevelSystem->createSound("../Sounds/backgroundSound.ogg", FMOD_LOOP_OFF, NULL, &music);
+	lowLevelSystem->createSound("../Sounds/backgroundSound.ogg", FMOD_LOOP_NORMAL, NULL, &music);
 	music->setDefaults(40000, 0);
 	lowLevelSystem->playSound(music, NULL, false, &soundsChannel);
 
