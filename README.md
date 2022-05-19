@@ -23,4 +23,6 @@ to be completed which can be found by opening the folder named "Framework". Afte
 the folder a second one needs to be open, which has the same name as the previous one 
 ("Framework"), to access the "level.lua" file. A maximum of 10 rooms can be created. 
 
+Here is a link to a short YouTube video which showcases how the project should work: 
 
+https://www.youtube.com/watch?v=5kw7OYaNTuM&ab_channel=BogdanAionitoaiei
